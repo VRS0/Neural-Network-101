@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-A simple neural network built from scratch using NumPy and trained on the Iris dataset, with a Streamlit app for live predictions.
+A simple learning project where a neural network is built from scratch using NumPy and trained on the Iris dataset, with a Streamlit app for live predictions.
 
 ## Features
 - Forward & backpropagation from scratch  
