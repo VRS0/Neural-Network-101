@@ -15,8 +15,8 @@ Iris dataset (3 classes, 4 features)
 Input (4) → Hidden1 (6) → Hidden2 (4) → Output (3)
 
 ##  Results
-Train Accuracy: 99.17%
-Test Accuracy: 96.67%
+- Train Accuracy: 99.17%
+- Test Accuracy: 96.67%
 
 ## 🖥️ Run App
 ```bash
