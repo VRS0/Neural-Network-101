@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-from Architecture import nn
+from architecture import nn
 
 st.title("Iris Flower Classifier")
 st.write("Neural Network Based ~ scratch.")
